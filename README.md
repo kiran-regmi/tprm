@@ -15,6 +15,7 @@ A simple web-based tool to assess, score, and track third-party vendor risks. **
 
 ## ✅ Phase 1: Project Setup 
 **📁 Folder Structure** 
+
 ![Screen Shot 2025-06-14 at 10 25 06 PM](https://github.com/user-attachments/assets/1083b121-a9f5-4072-8113-4558e38fe74c)
 
 ## ⚙️ Phase 2: Initialize the App
@@ -34,15 +35,17 @@ Path: data/vendors.csv
 
 ## 📋 Phase 4: Define Risk Questionairs 
 path: utils/questionaire.py 
-python 
-![Screen Shot 2025-06-14 at 11 19 45 PM](https://github.com/user-attachments/assets/3a7b654c-733c-4a9b-8231-ca296e597be3)
+
+![Screen Shot 2025-06-14 at 11 41 06 PM](https://github.com/user-attachments/assets/0f91f2fc-d061-4bbd-a360-596025c17d51)
 
 ## 📊 Phase 5: Risk Score Logic
 Path: utils/risk_calculator.py
+
 ![Screen Shot 2025-06-14 at 11 26 12 PM](https://github.com/user-attachments/assets/c77bff8f-a3c6-49a0-8c13-d4767e7cdf5c)
 
 ## 🖥️ Phase 6: Streamlit App
 app.py 
+
 ![Screen Shot 2025-06-14 at 11 30 28 PM](https://github.com/user-attachments/assets/83764576-094e-4e9d-b846-6361f001a27c)
 
 ## 📄 Phase 7: README.md
