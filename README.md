@@ -1,4 +1,4 @@
-# ✅ What is TPRM (Third Party Risk Management)?
+# ✅ What is hird Party Risk Management (TPRM)?
 **Third Party Risk Management (TPRM)** is a process used by organizations to **identify, assess, manage, and monitor** the risks that arise from working with external vendors, partners, suppliers, or contractors.
 
 **These risks can include:**
